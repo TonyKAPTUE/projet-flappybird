@@ -1,0 +1,10 @@
+{
+  "mean_raw_reward": -7.295999999999999,
+  "std_raw_reward": 0.8703930146778522,
+  "mean_score": 0.0,
+  "std_score": 0.0,
+  "max_score": 0,
+  "mean_length": 50.0,
+  "pass_at_least_1_rate": 0.0,
+  "pass_at_least_5_rate": 0.0
+}
